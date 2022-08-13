@@ -1,0 +1,206 @@
+.section1 {
+    padding-top: 141px;
+    padding-left: 375px;
+    padding-right: 375px;
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 3px;
+
+    h1 {
+
+        font-weight: 700;
+        font-size: 75px;
+        line-height: 91px;
+        color: #000000;
+        padding-right: 58%;
+    }
+
+    .lorem {
+        margin-top: 15px;
+        padding-right: 50%;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 150%;
+        color: #888888;
+
+    }
+
+    .button-arrow {
+        margin-top: 45px;
+        background: #F16214;
+        border-radius: 54px;
+        width: 170px;
+        height: 50px;
+        position: relative;
+
+
+        .get {
+            position: absolute;
+            width: 87px;
+            height: 24px;
+            left: 19px;
+            top: 13px;
+            font-style: normal;
+            font-weight: 700;
+            font-size: 16px;
+            line-height: 150%;
+            color: #FFFFFF;
+        }
+
+        .arrow-img {
+            position: absolute;
+            width: 40px;
+            height: 40px;
+            left: 125px;
+            top: 5px;
+        }
+
+    }
+
+    .sosial-media {
+        margin-top: 40px;
+        // border: 1px solid black;
+
+        display: flex;
+        gap: 23px;
+
+    }
+
+    .info {
+        // border: 1px solid red;
+
+        margin-top: 110px;
+        background: #FFFFFF;
+        box-shadow: 0px 22px 52px rgba(0, 0, 0, 0.07);
+        border-radius: 60px 0px;
+        display: flex;
+        align-items: center;
+
+        padding-left: 10%;
+        padding-top: 60px;
+        padding-bottom: 60px;
+        // position: relative;
+
+        .worktime {
+            // border: 1px solid red;
+
+            // position: absolute;
+            // top: 60px;
+            // left: 87px;
+            display: flex;
+            flex-direction: column;
+            text-align: center;
+            margin-right: 10%;
+
+            .wki {
+                margin-bottom: 10%;
+                margin-left: 39%;
+                width: 40px;
+                height: 40px;
+            }
+
+            .wp1 {
+                font-weight: 700;
+                font-size: 16px;
+                line-height: 19px;
+                color: #000000;
+                margin-bottom: 6px;
+            }
+
+            .wp2 {
+                font-weight: 400;
+                font-size: 13px;
+                line-height: 16px;
+                color: #888888;
+            }
+        }
+
+        // .line1 {
+        //     width: 0px;
+        //     height: 97px;
+        //     border: 1.5px solid #DDDDDD;
+        //     border-left: none;
+        //     margin-top: 60px;
+        //     margin-left: 385px;
+        // }
+        .location {
+            // width: 400px;
+            // height: 97px;
+            // position: absolute;
+            // top: 60px;
+            // left: 385px;
+            display: flex;
+            flex-direction: column;
+            text-align: center;
+            border-left: 2px solid #DDDDDD;
+            border-right: 2px solid #DDDDDD;
+
+           
+            padding-left: 10%;
+            padding-right: 10%;
+
+            .loi {
+                margin-bottom: 16px;
+                margin-left: 38%;
+                width: 40px;
+                height: 40px;
+            }
+
+            .lp1 {
+                font-weight: 700;
+                font-size: 16px;
+                line-height: 19px;
+                color: #000000;
+                margin-bottom: 6px;
+            }
+
+            .lp2 {
+                font-weight: 400;
+                font-size: 13px;
+                line-height: 16px;
+                color: #888888;
+            }
+        }
+
+        // .line2 {
+        //     width: 0px;
+        //     height: 97px;
+        //     border: 1.5px solid #DDDDDD;
+        //     border-left: none;
+        //     margin-top: 60px;
+        //     margin-left: 785px;
+        // }
+
+        .tel {
+
+            display: flex;
+            flex-direction: column;
+            text-align: center;
+            padding-left: 13%;
+            padding-right: 10%;
+            .tei {
+                margin-bottom: 16px;
+                margin-left: 32px;
+                width: 40px;
+                height: 40px;
+            }
+
+            .tp1 {
+                font-weight: 700;
+                font-size: 16px;
+                line-height: 19px;
+                color: #000000;
+                margin-bottom: 6px;
+            }
+
+            .tp2 {
+                font-weight: 400;
+                font-size: 13px;
+                line-height: 16px;
+                color: #888888;
+            }
+
+        }
+
+    }
+}

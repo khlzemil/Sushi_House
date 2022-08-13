@@ -1,0 +1,151 @@
+.sec6 {
+
+    margin-bottom: 180px;
+
+    .sec6div {
+
+        height: 644px;
+        background-image: url(../images/vegetable-food-diet-health-eating-vegetables-and-fork-2eaceb13dbe391d6ddd9e988c59d4f22.png);
+        // background-position-y: -100px;
+        background-repeat: no-repeat;
+
+        margin-top: 150px;
+
+        .imonial {
+
+            padding-top: 97px;
+            text-align: center;
+
+            .test {
+                font-weight: 700;
+                font-size: 14px;
+                line-height: 17px;
+                color: #F16214;
+                margin-bottom: 6px;
+            }
+
+            .happy {
+                font-weight: 700;
+                font-size: 40px;
+                line-height: 49px;
+                color: #000000;
+
+            }
+        }
+
+        .esas {
+            // display: flex;
+            // margin: 0 auto;
+            display: flex;
+            justify-content: center;
+            gap: 30px;
+            .right1 {
+                width: 569px;
+                height: 483px;
+                background-image: url(../images/lebanese-cuisine-pita-tzatziki-falafel-shawarma-mediterranean-bdbe7ab511e36f378d7bcbee34ff1608.png);
+            }
+
+            .left {
+
+                // border: 1px solid red;
+                margin-top: 118px;
+                // padding-left: 375px;
+                display: flex;
+                flex-direction: column;
+                text-align: center;
+                width: 29%;
+
+                .ceo-img {
+                    display: flex;
+                    // text-align: center;
+                    align-items: center;
+                    gap: 15px;
+
+                    margin: 0 auto;
+
+                }
+
+                .ceo-name {
+                    .ceo-namee {
+                        font-weight: 700;
+                        font-size: 16px;
+                        line-height: 19px;
+                        color: #000000;
+                    }
+
+                    .founder {
+                        font-weight: 400;
+                        font-size: 13px;
+                        line-height: 16px;
+                        color: #888888;
+
+                    }
+                }
+
+                .ceo-p {
+
+                    
+                    font-weight: 400;
+                    font-size: 16px;
+                    line-height: 150%;
+                    text-align: center;
+                    color: #888888;
+                    margin-top: 41px;
+
+                }
+
+                .arrow {
+
+                    height: 50px;
+                    // border: 1px solid red;
+
+                    display: flex;
+
+
+                    gap: 30px;
+                    margin: 55px auto;
+                    
+
+                    .aleft {
+
+                        border: 1.5px solid #EEEEEE;
+                        border-radius: 10px;
+                        background: #FFFFFF;
+                        display: flex;
+                        align-items: center;
+
+                        .saga {
+                            padding-top: 5px;
+                            padding-left: 13px;
+                            padding-right: 13px;
+                        }
+                    }
+
+                    .aright {
+                        width: 50px;
+                        height: 50px;
+                        border: 1.5px solid #EEEEEE;
+                        border-radius: 10px;
+                        background: #F16214;
+                        display: flex;
+                        align-items: center;
+
+                        .sola {
+                            padding-top: 5px;
+                            padding-left: 13px;
+                            padding-right: 13px;
+                        }
+                    }
+                }
+            }
+
+
+        }
+
+    }
+
+
+
+
+
+}
